@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
           centerTitle: true,
           backgroundColor: Colors.red,
           title: Text(
-            "Fal Günah Mı",
+            "Tıkla Falın Gelsin",
             style: TextStyle(fontStyle: FontStyle.italic, fontSize: 35),
           ),
         ),
@@ -89,7 +89,7 @@ class _FalAppState extends State<FalApp> {
                         size: 20,
                       )),
                   title: Text(
-                    "Yalan cano inanma",
+                    "Aşk",
                     style: TextStyle(fontStyle: FontStyle.italic, fontSize: 20),
                   ),
                 ),
@@ -121,7 +121,7 @@ class _FalAppState extends State<FalApp> {
                         size: 20,
                       )),
                   title: Text(
-                    "falını ögren cano",
+                    "Para",
                     style: TextStyle(fontStyle: FontStyle.italic, fontSize: 20),
                   ),
                 ),
@@ -153,7 +153,7 @@ class _FalAppState extends State<FalApp> {
                         size: 20,
                       )),
                   title: Text(
-                    "tavsiye :) aynen",
+                    "Tavsiye",
                     style: TextStyle(fontStyle: FontStyle.italic, fontSize: 20),
                   ),
                 ),
